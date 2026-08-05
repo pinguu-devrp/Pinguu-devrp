@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 - 💻 Estudiante de 2.º curso de **Ingeniería Informática** en la Universitat Rovira i Virgili (URV)
-- 🛠️ Desarrollando un proyecto de sistema operativo propio: **[mimOS](https://mimoslinux.org)**
+- 🛠️ Formo parte de un proyecto de sistema operativo propio: **[mimOS](https://mimoslinux.org)**
 - 📚 Expandiendo conocimientos en **Python**, **APIs REST** e **Integración de Inteligencia Artificial**
 - 📜 Certificado en **Google AI Essentials** por Coursera
 - 🎓 Graduado de Bachillerato Tecnológico | Certificado Cambridge Inglés B2 (FCE)
@@ -30,12 +30,11 @@
 
 ## 📌 Proyectos Destacados
 
-* **[mimOS](https://mimoslinux.org):** Proyecto personal enfocado en el desarrollo y arquitectura de un sistema operativo.
+* **[mimOS](https://mimoslinux.org):** Miembro del proyecto, enfocado en el desarrollo y arquitectura de un sistema operativo.
 * **Prácticas Académicas URV:** Colección de algoritmos, estructuras de datos en C, rutinas en GNU Assembler y diseño de bases de datos relacionales en SQL desarrollados durante la carrera[cite: 1].
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pinguu-Vibecoder&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinguu-Vibecoder&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pinguu-Vibecoder&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
