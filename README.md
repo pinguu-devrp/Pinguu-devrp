@@ -31,7 +31,7 @@
 ## 📌 Proyectos Destacados
 
 * **[mimOS](https://mimoslinux.org):** Miembro del proyecto, enfocado en el desarrollo y arquitectura de un sistema operativo.
-* **Prácticas Académicas URV:** Colección de algoritmos, estructuras de datos en C, rutinas en GNU Assembler y diseño de bases de datos relacionales en SQL desarrollados durante la carrera[cite: 1].
+* **Prácticas Académicas URV:** Colección de algoritmos, estructuras de datos en C, rutinas en GNU Assembler y diseño de bases de datos relacionales en SQL desarrollados durante la carrera
 
 ---
 
