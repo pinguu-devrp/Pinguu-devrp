@@ -11,7 +11,7 @@
 ## `$ whoami`
 
 ```bash
-aleix@homelab:~$ cat about.txt
+pinguu-dev@homelab:~$ cat about.txt
 
 NAME      Aleix Calderón Marín
 ROLE      Founder & Owner of Ibiza RP, a Spanish-language ER:LC roleplay server
@@ -23,7 +23,7 @@ LANGS     Spanish, Catalan, English (B2)
 ```
 
 ```bash
-aleix@homelab:~$ systemctl status homelab
+pinguu-dev@homelab:~$ systemctl status homelab
 
 ● homelab.service - Aleix's totally-not-a-datacenter
      Active: active (running), watched by Uptime Kuma, alerts straight to Discord
@@ -47,28 +47,6 @@ aleix@homelab:~$ systemctl status homelab
 | **Ibiza RP bot + web apps** | TypeScript bot (discord.js, Prisma, PostgreSQL) with its own web console and emergency dispatch (CAD/MDT), deployed with Docker Compose. Private repo. |
 | **Homelab** | Proxmox VE on an Intel N150 mini PC: Pi-hole for the whole network, Uptime Kuma with Discord alerts, a firewalled Docker VM, Tailscale for remote access and Cloudflare Tunnel to publish services without opening router ports. |
 | **URV coursework** | Algorithms and data structures in C, GNU Assembler routines and relational database design in SQL. |
-
----
-
-## 🔥 `./currently`
-
-- 🔨 **Building:** a landing page for the Ibiza RP web apps
-- 📖 **Learning:** how TCP, UDP, DNS and HTTP really work (Data Networks course at URV)
-- 🎯 **Next:** automated PostgreSQL backups and a reboot test for the homelab
-
----
-
-## 🧾 `./receipts`
-
-Things I actually checked, not just claimed:
-
-- ✅ My public VM **cannot reach my private LAN**: pings to the Pi-hole and the router from inside it show 100 % packet loss, on purpose.
-- ✅ **Zero inbound ports** open on my router: the public services go out through an outbound-only Cloudflare Tunnel.
-- ✅ **Secrets stay out of Git**: `.env` files are ignored, I checked the repo history, and they reach the server by `scp` with `chmod 600`.
-- ✅ **Security patches install themselves** (`unattended-upgrades`), and the kernel is kept up to date.
-- ✅ Everything is **monitored**, and downtime pings me on Discord.
-- ✅ Network-wide **DNS filtering** with Quad9 and Cloudflare upstreams, checked with `nslookup` against a known ad domain.
-
 ---
 
 ## 🌴 `ls ~/stack`
@@ -107,7 +85,7 @@ Things I actually checked, not just claimed:
 ---
 ## 🌆 `contact --now`
 
-💼 [LinkedIn](https://www.linkedin.com/in/aleixcalderonmarin) · 🐧 [MimOS](https://mimoslinux.org)
+💼 [LinkedIn]([https://www.linkedin.com/in/aleixcalderonmarin](https://www.linkedin.com/in/aleix-calder%C3%B3n-mar%C3%ADn-166843398/)) · 🐧 [MimOS](https://mimoslinux.org)
 
 ```bash
 aleix@homelab:~$ sudo apt install sleep
