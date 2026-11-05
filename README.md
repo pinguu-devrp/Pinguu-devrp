@@ -1,9 +1,10 @@
-<!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aleix%20Calder%C3%B3n%20Mar%C3%ADn&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=root%40homelab%3A~%23%20sudo%20make%20it%20work&descAlignY=60&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,45:FF8A3D,100:6D28D9&height=240&section=header&text=Aleix%20Calder%C3%B3n%20Mar%C3%ADn&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20Owner%20of%20Ibiza%20RP%20%C2%B7%20CS%20student%20%C2%B7%20Homelab%20enjoyer&descAlignY=58&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=760&lines=Founder+%26+Owner+of+Ibiza+RP+%28ER%3ALC%29;CS+student+%40+URV+%7C+2nd+year;Building+MimOS+%28Arch+%2B+KDE+Plasma%2C+made+in+Spain%29;Running+a+Proxmox+homelab+on+an+Intel+N150;Open+inbound+ports+on+my+router%3A+0;It+works+on+my+machine.+And+on+the+VM.)](https://git.io/typing-svg)
+[![Streak](https://streak-stats.demolab.com/?user=pinguu-devrp&hide_border=true&background=120A2E&ring=FF2E93&fire=FF8A3D&currStreakNum=00E5FF&sideNums=FFFFFF&currStreakLabel=FF2E93&sideLabels=00E5FF&dates=C9B8FF)](https://github.com/pinguu-devrp)
+
+🌴 **IBIZA RP** · ER:LC · Spain 🌅
 
 </div>
 
@@ -18,8 +19,7 @@ NAME      Aleix Calderón Marín
 ROLE      Founder & Owner of Ibiza RP, a Spanish-language ER:LC roleplay server
 STATUS    2nd-year Computer Engineering student @ Universitat Rovira i Virgili (URV)
 DISTRO    Contributor to MimOS: a desktop Linux distro based on Arch, with KDE Plasma, made in Spain
-HOMELAB   Mini PC (Intel N150) running Proxmox VE, because one OS was not enough
-LEARNING  Networking, sysadmin, Python, REST APIs, AI integration
+HOMELAB   Intel N150 mini PC running Proxmox VE, because one OS was not enough
 CERTS     Google AI Essentials (Coursera) | Cambridge English B2 (FCE)
 LANGS     Spanish, Catalan, English (B2)
 ```
@@ -28,7 +28,6 @@ LANGS     Spanish, Catalan, English (B2)
 aleix@homelab:~$ systemctl status homelab
 
 ● homelab.service - Aleix's totally-not-a-datacenter
-     Loaded: loaded (/etc/proxmox/everything.conf; enabled)
      Active: active (running), watched by Uptime Kuma, alerts straight to Discord
 
      ├─ ibiza-bot     runs Ibiza RP: Discord bot + web console and CAD/MDT
@@ -41,63 +40,74 @@ aleix@homelab:~$ systemctl status homelab
 
 ---
 
-## `$ ls ~/stack`
-
-### Languages & Databases
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Assembly](https://img.shields.io/badge/GNU_Assembly-00599C?style=for-the-badge&logo=gnu&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E44D26?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Infrastructure & Networking
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-
-### Dev Environment
-![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MSYS2](https://img.shields.io/badge/MSYS2-FF0000?style=for-the-badge&logo=cygwin&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
----
-
-## `$ git log --featured`
+## 🌅 `git log --featured`
 
 | Project | What it is |
 |---|---|
 | **Ibiza RP** | I founded and run Ibiza RP, a Spanish-language roleplay server for ER:LC (Emergency Response: Liberty County). Community, rules, staff and the tech behind it. |
 | **[MimOS](https://mimoslinux.org)** | Desktop Linux distro based on Arch, with KDE Plasma, made in Spain. I'm part of the project. |
 | **Ibiza RP bot + web apps** | TypeScript bot (discord.js, Prisma, PostgreSQL) with its own web console and emergency dispatch (CAD/MDT), deployed with Docker Compose. Private repo. |
-| **Homelab** | Intel N150 mini PC on Proxmox VE. Pi-hole blocks ads and malicious domains for the whole network, Uptime Kuma sends alerts to Discord, a Docker VM is firewalled off from my private LAN, Tailscale gives me remote access, and Cloudflare Tunnel publishes services without opening a single router port. |
+| **Homelab** | Proxmox VE on an Intel N150 mini PC: Pi-hole for the whole network, Uptime Kuma with Discord alerts, a firewalled Docker VM, Tailscale for remote access and Cloudflare Tunnel to publish services without opening router ports. |
 | **URV coursework** | Algorithms and data structures in C, GNU Assembler routines and relational database design in SQL. |
 
 ---
 
-## `$ ./stats --github`
+## 🔥 `./currently`
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pinguu-Vibecoder&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+- 🔨 **Building:** a landing page for the Ibiza RP web apps
+- 📖 **Learning:** how TCP, UDP, DNS and HTTP really work (Data Networks course at URV)
+- 🎯 **Next:** automated PostgreSQL backups and a reboot test for the homelab
 
 ---
 
-## `$ contact --now`
+## 🧾 `./receipts`
 
-📫 **aleixcalderonmarin15@gmail.com** · [LinkedIn](https://www.linkedin.com/in/aleixcalderonmarin) · [MimOS](https://mimoslinux.org)
+Things I actually checked, not just claimed:
+
+- ✅ My public VM **cannot reach my private LAN**: pings to the Pi-hole and the router from inside it show 100 % packet loss, on purpose.
+- ✅ **Zero inbound ports** open on my router: the public services go out through an outbound-only Cloudflare Tunnel.
+- ✅ **Secrets stay out of Git**: `.env` files are ignored, I checked the repo history, and they reach the server by `scp` with `chmod 600`.
+- ✅ **Security patches install themselves** (`unattended-upgrades`), and the kernel is kept up to date.
+- ✅ Everything is **monitored**, and downtime pings me on Discord.
+- ✅ Network-wide **DNS filtering** with Quad9 and Cloudflare upstreams, checked with `nslookup` against a known ad domain.
+
+---
+
+## 🌴 `ls ~/stack`
+
+**Languages & databases**<br>
+![C](https://img.shields.io/badge/C-FF2E93?style=flat-square&logo=c&logoColor=white&labelColor=1A0B3D)
+![Assembly](https://img.shields.io/badge/GNU_Assembly-FF8A3D?style=flat-square&logo=gnu&logoColor=white&labelColor=1A0B3D)
+![Java](https://img.shields.io/badge/Java-00B8D9?style=flat-square&logo=openjdk&logoColor=white&labelColor=1A0B3D)
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white&labelColor=1A0B3D)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF2E93?style=flat-square&logo=typescript&logoColor=white&labelColor=1A0B3D)
+![Node.js](https://img.shields.io/badge/Node.js-FF8A3D?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1A0B3D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00B8D9?style=flat-square&logo=postgresql&logoColor=white&labelColor=1A0B3D)
+![Prisma](https://img.shields.io/badge/Prisma-8B5CF6?style=flat-square&logo=prisma&logoColor=white&labelColor=1A0B3D)
+![MariaDB](https://img.shields.io/badge/MariaDB-FF2E93?style=flat-square&logo=mariadb&logoColor=white&labelColor=1A0B3D)
+![MySQL](https://img.shields.io/badge/MySQL-FF8A3D?style=flat-square&logo=mysql&logoColor=white&labelColor=1A0B3D)
+
+**Infrastructure & networking**<br>
+![Proxmox](https://img.shields.io/badge/Proxmox-FF2E93?style=flat-square&logo=proxmox&logoColor=white&labelColor=1A0B3D)
+![Docker](https://img.shields.io/badge/Docker-FF8A3D?style=flat-square&logo=docker&logoColor=white&labelColor=1A0B3D)
+![Debian](https://img.shields.io/badge/Debian-00B8D9?style=flat-square&logo=debian&logoColor=white&labelColor=1A0B3D)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-8B5CF6?style=flat-square&logo=pihole&logoColor=white&labelColor=1A0B3D)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-FF2E93?style=flat-square&logo=cloudflare&logoColor=white&labelColor=1A0B3D)
+![Tailscale](https://img.shields.io/badge/Tailscale-FF8A3D?style=flat-square&logo=tailscale&logoColor=white&labelColor=1A0B3D)
+
+**Dev environment**<br>
+![Git](https://img.shields.io/badge/Git-00B8D9?style=flat-square&logo=git&logoColor=white&labelColor=1A0B3D)
+![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=1A0B3D)
+![Linux](https://img.shields.io/badge/Linux-FF2E93?style=flat-square&logo=linux&logoColor=white&labelColor=1A0B3D)
+![MSYS2](https://img.shields.io/badge/MSYS2-FF8A3D?style=flat-square&logo=cygwin&logoColor=white&labelColor=1A0B3D)
+![VS Code](https://img.shields.io/badge/VS_Code-00B8D9?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=1A0B3D)
+![discord.js](https://img.shields.io/badge/discord.js-8B5CF6?style=flat-square&logo=discord&logoColor=white&labelColor=1A0B3D)
+
+---
+
+## 🌆 `contact --now`
+
+💼 [LinkedIn](https://www.linkedin.com/in/aleixcalderonmarin) · 🐧 [MimOS](https://mimoslinux.org)
 
 ```bash
 aleix@homelab:~$ sudo apt install sleep
@@ -106,6 +116,6 @@ E: Unable to locate package sleep
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,45:FF8A3D,100:6D28D9&height=100&section=footer)
 
 </div>
