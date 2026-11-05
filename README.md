@@ -1,6 +1,6 @@
-# ¡Hola! Soy Aleix Calderón Marín 👋
+# ¡Hey! I am Aleix Calderón Marín 👋
 
-## 🚀 Sobre mí
+## 🚀 About me
 - 💻 Estudiante de 2.º curso de **Ingeniería Informática** en la Universitat Rovira i Virgili (URV)
 - 🛠️ Formo parte de un proyecto de sistema operativo propio: **[mimOS](https://mimoslinux.org)**
 - 📚 Expandiendo conocimientos en **Python**, **APIs REST** e **Integración de Inteligencia Artificial**
@@ -17,6 +17,7 @@
 ![Assembly](https://img.shields.io/badge/GNU_Assembly-00599C?style=for-the-badge&logo=gnu&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0599C?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Entorno y Herramientas de Desarrollo
