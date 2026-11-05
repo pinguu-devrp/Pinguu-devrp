@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,45:FF8A3D,100:6D28D9&height=240&section=header&text=Aleix%20Calder%C3%B3n%20Mar%C3%ADn&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20Owner%20of%20Ibiza%20RP%20%C2%B7%20CS%20student%20%C2%B7%20Homelab%20enjoyer&descAlignY=58&descSize=20)
-
-[![Streak](https://streak-stats.demolab.com/?user=pinguu-devrp&hide_border=true&background=120A2E&ring=FF2E93&fire=FF8A3D&currStreakNum=00E5FF&sideNums=FFFFFF&currStreakLabel=FF2E93&sideLabels=00E5FF&dates=C9B8FF)](https://github.com/pinguu-devrp)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,45:FF8A3D,100:6D28D9&height=240&section=header&text=Aleix%20Calder%C3%B3n%20Mar%C3%ADn&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20and%20Owner%20of%20Ibiza%20RP%20%C2%B7%20CS%20student%20%C2%B7%20Homelab%20enjoyer&descAlignY=58&descSize=20)
 
 🌴 **IBIZA RP** · ER:LC · Spain 🌅
 
@@ -104,7 +102,9 @@ Things I actually checked, not just claimed:
 ![discord.js](https://img.shields.io/badge/discord.js-8B5CF6?style=flat-square&logo=discord&logoColor=white&labelColor=1A0B3D)
 
 ---
+[![Streak](https://streak-stats.demolab.com/?user=pinguu-devrp&hide_border=true&background=120A2E&ring=FF2E93&fire=FF8A3D&currStreakNum=00E5FF&sideNums=FFFFFF&currStreakLabel=FF2E93&sideLabels=00E5FF&dates=C9B8FF)](https://github.com/pinguu-devrp)
 
+---
 ## 🌆 `contact --now`
 
 💼 [LinkedIn](https://www.linkedin.com/in/aleixcalderonmarin) · 🐧 [MimOS](https://mimoslinux.org)
