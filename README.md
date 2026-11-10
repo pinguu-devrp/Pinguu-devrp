@@ -85,7 +85,7 @@ pinguu-dev@homelab:~$ systemctl status homelab
 ---
 ## 🌆 `contact --now`
 
-💼 [LinkedIn]([https://www.linkedin.com/in/aleixcalderonmarin](https://www.linkedin.com/in/aleix-calder%C3%B3n-mar%C3%ADn-166843398/)) · 🐧 [MimOS](https://mimoslinux.org) 🏝[Ibiza Roleplay](https://discord.gg/5mPVa84FxW)
+💼 [LinkedIn]([https://www.linkedin.com/in/aleixcalderonmarin](https://www.linkedin.com/in/aleix-calder%C3%B3n-mar%C3%ADn-166843398/) · 🐧 [MimOS](https://mimoslinux.org) 🏝[Ibiza Roleplay](https://discord.gg/5mPVa84FxW)
 
 ```bash
 aleix@homelab:~$ sudo apt install sleep
