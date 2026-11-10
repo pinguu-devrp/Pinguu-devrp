@@ -42,9 +42,9 @@ pinguu-dev@homelab:~$ systemctl status homelab
 
 | Project | What it is |
 |---|---|
-| **Ibiza RP** | I founded and run Ibiza RP, a Spanish-language roleplay server for ER:LC (Emergency Response: Liberty County). Community, rules, staff and the tech behind it. |
+| **[Ibiza RP](https://www.ibizaroleplayerlc.com/)** | I founded and run Ibiza RP, a Spanish-language roleplay server for ER:LC (Emergency Response: Liberty County). Community, rules, staff and the tech behind it. |
 | **[MimOS](https://mimoslinux.org)** | Desktop Linux distro based on Arch, with KDE Plasma, made in Spain. I'm part of the project. |
-| **Ibiza RP bot + web apps** | TypeScript bot (discord.js, Prisma, PostgreSQL) with its own web console and emergency dispatch (CAD/MDT), deployed with Docker Compose. Private repo. |
+| **Ibiza RP IT Services** | TypeScript bot (discord.js, Prisma, PostgreSQL) with its own web console and emergency dispatch (CAD/MDT), deployed with Docker Compose. Private repo. |
 | **Homelab** | Proxmox VE on an Intel N150 mini PC: Pi-hole for the whole network, Uptime Kuma with Discord alerts, a firewalled Docker VM, Tailscale for remote access and Cloudflare Tunnel to publish services without opening router ports. |
 | **URV coursework** | Algorithms and data structures in C, GNU Assembler routines and relational database design in SQL. |
 ---
@@ -85,7 +85,7 @@ pinguu-dev@homelab:~$ systemctl status homelab
 ---
 ## 🌆 `contact --now`
 
-💼 [LinkedIn]([https://www.linkedin.com/in/aleixcalderonmarin](https://www.linkedin.com/in/aleix-calder%C3%B3n-mar%C3%ADn-166843398/)) · 🐧 [MimOS](https://mimoslinux.org)
+💼 [LinkedIn]([https://www.linkedin.com/in/aleixcalderonmarin](https://www.linkedin.com/in/aleix-calder%C3%B3n-mar%C3%ADn-166843398/)) · 🐧 [MimOS](https://mimoslinux.org) 🏝[Ibiza Roleplay](https://discord.gg/5mPVa84FxW)
 
 ```bash
 aleix@homelab:~$ sudo apt install sleep
